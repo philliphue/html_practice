@@ -1,0 +1,70 @@
+body
+{
+font-size: 6pt;
+font-family:Arial;
+  margin-left: 5px;
+
+}
+
+h1
+{
+font-size: 12pt;
+font-family:Arial;
+}
+
+h2
+{
+font-size: 9pt;
+}
+
+h3
+{
+font-size: 6pt;
+text-transform:uppercase;
+}
+
+h4
+{
+margin:0px;
+}
+
+p
+{
+margin:0px;
+}
+
+ul
+{
+font-size: 6pt;
+list-style:none;
+padding: 0;
+}
+
+.canvas
+{
+font-size: 6pt;
+
+}
+
+
+.wide_input
+{
+width:90%;
+vertical-align: top;
+
+}
+
+.sublist
+{
+font-size: 6pt;
+font-style:italic;
+padding: 0;
+}
+
+.canvas_section
+{
+  font-size: 6pt;
+  vertical-align:top;
+  border: 1px black solid;
+  padding: 0 10px;
+}
